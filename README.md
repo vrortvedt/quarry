@@ -8,6 +8,8 @@ The basic premise is that participating conference attendees are randomly assign
 
 Every player seeking a quarry is also assigned as another player's quarry ("the pursuer" from the original player's perspective).  Players do not know who their pursuers are, but they are provided the name of their pursuer's pursuer ("the ally" from the original player's perspective).  Allies allow for defensive strategies to help identify or eliminate the threat to the player, because if the pursuer is eliminated before reaching his or her quarry, the quarry stays in the game.  This second piece of information allows for a new potential serendipitous contact, and another community connection.  
 
+Here is a [simple diagram](https://github.com/vrortvedt/quarry/blob/master/Quarry_diagram.pdf) explaining how a session in a five-person Quarry game would work.  Each player has a quarry (known), a pursuer (unknown) and an ally (known).
+
 Provided only with the names of their quarries and allies, players may conduct internet searches to try to learn more about what those two players look like, who the work with and whether they share common connections in the community that might be worth finding to gather intel or make connections.  
 
 ## Outcomes
